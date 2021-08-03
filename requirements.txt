@@ -1,0 +1,14 @@
+dnspython~=2.1.0
+idna~=3.2
+pip~=21.2.1
+pymongo~=3.12.0
+setuptools~=57.4.0
+mongoengine~=0.23.1
+MarkupSafe~=2.0.1
+Werkzeug~=2.0.1
+Jinja2~=3.0.1
+click~=8.0.1
+itsdangerous~=2.0.1
+WTForms~=2.3.3
+Flask~=2.0.1
+zipp~=3.5.0
