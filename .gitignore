@@ -3,6 +3,5 @@
 __pycache__/*
 *.py[cod]
 venv
-main.py
 configuration.py
 *.pyc
