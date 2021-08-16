@@ -4,6 +4,12 @@ from service.InstructorService import api_instructor, api_instructorp, api_show_
 from service.ProgramService import api_program_get, api_program_post, api_show_program
 from service.SemesterService import api_sem, api_semp, api_show_semester
 from service.StudentService import api_student, api_studentp, api_show_student
+# def test():
+#     if method== POST:
+#         response=add test()
+#
+#     elif method==GET:
+#         response=get test()
 
 app.add_url_rule("/api/program", "program", api_program_get, methods=['GET'])
 app.add_url_rule("/api/programp", "programp", api_program_post, methods=['POST'])
